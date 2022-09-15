@@ -1,0 +1,8 @@
+README.md
+setup.py
+scratch_downloader/__init__.py
+scratch_downloader.egg-info/PKG-INFO
+scratch_downloader.egg-info/SOURCES.txt
+scratch_downloader.egg-info/dependency_links.txt
+scratch_downloader.egg-info/requires.txt
+scratch_downloader.egg-info/top_level.txt
